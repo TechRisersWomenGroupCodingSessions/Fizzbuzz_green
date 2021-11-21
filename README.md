@@ -1,6 +1,6 @@
 # Fizzbuzz_green
 
-![Kata](../kata.png)
+![Kata](/kata.png)
 
 ## FizzBuzz
 
